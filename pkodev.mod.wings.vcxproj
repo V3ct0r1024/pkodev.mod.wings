@@ -184,6 +184,7 @@
     <TargetName>pkodev.mod.wings.client.13x_0d</TargetName>
     <IncludePath>$(ProjectDir)lib\detours\include;$(VC_IncludePath);$(WindowsSDK_IncludePath);</IncludePath>
     <LibraryPath>$(ProjectDir)lib\detours\lib;$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86)</LibraryPath>
+    <IntDir>$(ProjectDir)temp\$(Configuration)\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Game.exe 1.3x_5 Debug|Win32'">
     <LinkIncremental>true</LinkIncremental>
@@ -191,6 +192,7 @@
     <TargetName>pkodev.mod.wings.client.13x_5d</TargetName>
     <IncludePath>$(ProjectDir)lib\detours\include;$(VC_IncludePath);$(WindowsSDK_IncludePath);</IncludePath>
     <LibraryPath>$(ProjectDir)lib\detours\lib;$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86)</LibraryPath>
+    <IntDir>$(ProjectDir)temp\$(Configuration)\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Game.exe 1.3x_4 Debug|Win32'">
     <LinkIncremental>true</LinkIncremental>
@@ -198,6 +200,7 @@
     <TargetName>pkodev.mod.wings.client.13x_4d</TargetName>
     <IncludePath>$(ProjectDir)lib\detours\include;$(VC_IncludePath);$(WindowsSDK_IncludePath);</IncludePath>
     <LibraryPath>$(ProjectDir)lib\detours\lib;$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86)</LibraryPath>
+    <IntDir>$(ProjectDir)temp\$(Configuration)\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Game.exe 1.3x_3 Debug|Win32'">
     <LinkIncremental>true</LinkIncremental>
@@ -205,6 +208,7 @@
     <TargetName>pkodev.mod.wings.client.13x_3d</TargetName>
     <IncludePath>$(ProjectDir)lib\detours\include;$(VC_IncludePath);$(WindowsSDK_IncludePath);</IncludePath>
     <LibraryPath>$(ProjectDir)lib\detours\lib;$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86)</LibraryPath>
+    <IntDir>$(ProjectDir)temp\$(Configuration)\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Game.exe 1.3x_2 Debug|Win32'">
     <LinkIncremental>true</LinkIncremental>
@@ -212,6 +216,7 @@
     <TargetName>pkodev.mod.wings.client.13x_2d</TargetName>
     <IncludePath>$(ProjectDir)lib\detours\include;$(VC_IncludePath);$(WindowsSDK_IncludePath);</IncludePath>
     <LibraryPath>$(ProjectDir)lib\detours\lib;$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86)</LibraryPath>
+    <IntDir>$(ProjectDir)temp\$(Configuration)\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Game.exe 1.3x_1 Debug|Win32'">
     <LinkIncremental>true</LinkIncremental>
@@ -219,6 +224,7 @@
     <TargetName>pkodev.mod.wings.client.13x_1d</TargetName>
     <IncludePath>$(ProjectDir)lib\detours\include;$(VC_IncludePath);$(WindowsSDK_IncludePath);</IncludePath>
     <LibraryPath>$(ProjectDir)lib\detours\lib;$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86)</LibraryPath>
+    <IntDir>$(ProjectDir)temp\$(Configuration)\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Game.exe 1.3x_0 Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
@@ -226,6 +232,7 @@
     <TargetName>pkodev.mod.wings.client.13x_0</TargetName>
     <IncludePath>$(ProjectDir)lib\detours\include;$(VC_IncludePath);$(WindowsSDK_IncludePath);</IncludePath>
     <LibraryPath>$(ProjectDir)lib\detours\lib;$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86)</LibraryPath>
+    <IntDir>$(ProjectDir)temp\$(Configuration)\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Game.exe 1.3x_5 Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
@@ -233,6 +240,7 @@
     <TargetName>pkodev.mod.wings.client.13x_5</TargetName>
     <IncludePath>$(ProjectDir)lib\detours\include;$(VC_IncludePath);$(WindowsSDK_IncludePath);</IncludePath>
     <LibraryPath>$(ProjectDir)lib\detours\lib;$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86)</LibraryPath>
+    <IntDir>$(ProjectDir)temp\$(Configuration)\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Game.exe 1.3x_4 Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
@@ -240,6 +248,7 @@
     <TargetName>pkodev.mod.wings.client.13x_4</TargetName>
     <IncludePath>$(ProjectDir)lib\detours\include;$(VC_IncludePath);$(WindowsSDK_IncludePath);</IncludePath>
     <LibraryPath>$(ProjectDir)lib\detours\lib;$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86)</LibraryPath>
+    <IntDir>$(ProjectDir)temp\$(Configuration)\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Game.exe 1.3x_3 Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
@@ -247,6 +256,7 @@
     <TargetName>pkodev.mod.wings.client.13x_3</TargetName>
     <IncludePath>$(ProjectDir)lib\detours\include;$(VC_IncludePath);$(WindowsSDK_IncludePath);</IncludePath>
     <LibraryPath>$(ProjectDir)lib\detours\lib;$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86)</LibraryPath>
+    <IntDir>$(ProjectDir)temp\$(Configuration)\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Game.exe 1.3x_2 Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
@@ -254,6 +264,7 @@
     <TargetName>pkodev.mod.wings.client.13x_2</TargetName>
     <IncludePath>$(ProjectDir)lib\detours\include;$(VC_IncludePath);$(WindowsSDK_IncludePath);</IncludePath>
     <LibraryPath>$(ProjectDir)lib\detours\lib;$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86)</LibraryPath>
+    <IntDir>$(ProjectDir)temp\$(Configuration)\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Game.exe 1.3x_1 Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
@@ -261,6 +272,7 @@
     <TargetName>pkodev.mod.wings.client.13x_1</TargetName>
     <IncludePath>$(ProjectDir)lib\detours\include;$(VC_IncludePath);$(WindowsSDK_IncludePath);</IncludePath>
     <LibraryPath>$(ProjectDir)lib\detours\lib;$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86)</LibraryPath>
+    <IntDir>$(ProjectDir)temp\$(Configuration)\</IntDir>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Game.exe 1.3x_0 Debug|Win32'">
     <ClCompile>
