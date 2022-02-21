@@ -1,6 +1,14 @@
 [![PKOdev.NET](https://pkodev.net/uploads/monthly_2021_11/pkodevlogo_full.png.9c0b058fcf0ebbfd09e443f272c3d328.png "PKOdev.NET")](http://pkodev.net "PKOdev.NET")
-## pkodev.mod.wings
-Highlight friends and enemies with color and circles.
+## TOP/PKO/KOP mod: pkodev.mod.wings
+The mod allows you to add a flight effect to any wings (items with type **44**). Modification for **[PKOdev.NET mod loader](https://pkodev.net/topic/5757-mod-loading-system-for-server-and-client-pkodevnet-mod-loader/)**.
+
+## Modification information
+
+- **Name:** pkodev.mod.wings;
+- **Version:** 1.0;
+- **Author:** V3ct0r;
+- **Type:** for client (Game.exe);
+- **Supported executable .exe files:** GAME_13X_0, GAME_13X_1, GAME_13X_2, GAME_13X_3, GAME_13X_4, GAME_13X_5.
 
 ## Discussion on the forum
 
