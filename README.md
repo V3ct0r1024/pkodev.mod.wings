@@ -1,4 +1,4 @@
-[![PKOdev.NET](https://pkodev.net/uploads/monthly_2021_11/pkodevlogo_full.png.9c0b058fcf0ebbfd09e443f272c3d328.png "PKOdev.NET")](http://pkodev.net "PKOdev.NET")
+[![PKOdev.NET](https://pkodev.net/uploads/monthly_2022_02/logo-background.png.d7a190633d23e60fbfdfb9340726ba82.png "PKOdev.NET")](http://pkodev.net "PKOdev.NET")
 ## TOP/PKO/KOP mod: pkodev.mod.wings
 The mod allows you to add a flight effect to any wings (items with type **44**). Modification for **[PKOdev.NET mod loader](https://pkodev.net/topic/5757-mod-loading-system-for-server-and-client-pkodevnet-mod-loader/)**.
 
