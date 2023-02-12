@@ -19,7 +19,7 @@ This [**pkodev.mod.loader**](https://github.com/V3ct0r1024/pkodev.mod.loader) mo
 
 ## How to build
 
-You will need the [**Visual Studio 2022 Community**](https://visualstudio.microsoft.com/vs/community/) IDE installed, which you can download for free from the Microsoft website.
+You will need the [**Visual Studio 2022 Community**](https://visualstudio.microsoft.com/vs/community/) IDE installed, which you can download for free from the Microsoft website, and the [**Git**](https://git-scm.com/) VCS.
 
 1. Open **Developer Command Prompt for VS 2022**
 2. Execute the following sequence of commands:
