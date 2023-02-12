@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="dllmain.cpp" />
+    <ClCompile Include="import.cpp">
+      <Filter>Mod loader</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="patch.h" />
+    <ClInclude Include="address.h">
+      <Filter>Mod loader</Filter>
+    </ClInclude>
+    <ClInclude Include="import.h">
+      <Filter>Mod loader</Filter>
+    </ClInclude>
+    <ClInclude Include="hook.h">
+      <Filter>Mod loader</Filter>
+    </ClInclude>
+    <ClInclude Include="loader.h">
+      <Filter>Mod loader</Filter>
+    </ClInclude>
+    <ClInclude Include="utils.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="cfg">
+      <UniqueIdentifier>{62014030-5de2-4541-b272-b1c64bf6e8e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mod loader">
+      <UniqueIdentifier>{0653ee2a-32bc-4c21-8850-430ba81ee9f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utils">
+      <UniqueIdentifier>{b0ef656e-f71a-4205-b08a-f152661d3510}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="cfg\pkodev.mod.wings.cfg">
+      <Filter>cfg</Filter>
+    </None>
+  </ItemGroup>
+</Project>
