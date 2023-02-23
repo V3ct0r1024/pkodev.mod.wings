@@ -23,7 +23,7 @@ You will need the [**Visual Studio 2022 Community**](https://visualstudio.micros
 
 ### Way one - build.bat script
 
-1. Open **Developer Command Prompt for VS 2022**
+1. Open **Developer Command Prompt for VS 2022**;
 2. Execute the following sequence of commands:
 
 	
